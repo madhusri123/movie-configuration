@@ -1,0 +1,6 @@
+spring.data.mongodb.database=moviesdb
+spring.data.mongodb.host=localhost
+spring.data.mongodb.password=
+spring.data.mongodb.port=27017
+spring.data.mongodb.uri=mongodb://localhost:8070/moviesdb
+spring.data.mongodb.username=
